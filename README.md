@@ -16,18 +16,19 @@ To run this app on your local machine, you need to have Flutter installed. Follo
 
 1. Clone the repository:
 
-   ```shell
-   git clone https://github.com/your-username/tip_calculator_app.git
-Change to the project directory:
+```shell
+git clone https://github.com/your-username/tip_calculator_app.git
+``` 
+2. Change to the project directory:
 
   ```shell
   cd tip_calculator_app
 ```
-Install the dependencies:
+3. Install the dependencies:
   ```shell
   flutter pub get
 ```
-Run the app:
+4. Run the app:
   ```shell
 flutter run
 ```
