@@ -3,7 +3,7 @@
 This is a simple tip calculator app built with Flutter. It allows you to calculate the tip amount based on the bill amount and the selected tip percentage.
 <br>
 ### •Note 
-<i>During a skill-testing process for a company, I was asked to create a Flutter project to demonstrate my flutter skills
+<i>During a skill-testing process for a company i,e. **Kali-IO Solutions** , I was asked to create a Flutter project to demonstrate my flutter skills
 ## Features
 
 - Enter the bill amount in rupees.
